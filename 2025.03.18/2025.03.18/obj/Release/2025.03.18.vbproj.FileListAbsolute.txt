@@ -1,0 +1,10 @@
+C:\Users\zorma\OneDrive\Masaüstü\2025.03.18\2025.03.18\bin\Release\2025.03.18.exe.config
+C:\Users\zorma\OneDrive\Masaüstü\2025.03.18\2025.03.18\bin\Release\2025.03.18.exe
+C:\Users\zorma\OneDrive\Masaüstü\2025.03.18\2025.03.18\bin\Release\2025.03.18.pdb
+C:\Users\zorma\OneDrive\Masaüstü\2025.03.18\2025.03.18\bin\Release\2025.03.18.xml
+C:\Users\zorma\OneDrive\Masaüstü\2025.03.18\2025.03.18\obj\Release\_2025._03._18.Form1.resources
+C:\Users\zorma\OneDrive\Masaüstü\2025.03.18\2025.03.18\obj\Release\_2025._03._18.Resources.resources
+C:\Users\zorma\OneDrive\Masaüstü\2025.03.18\2025.03.18\obj\Release\2025.03.18.vbproj.GenerateResource.Cache
+C:\Users\zorma\OneDrive\Masaüstü\2025.03.18\2025.03.18\obj\Release\2025.03.18.exe
+C:\Users\zorma\OneDrive\Masaüstü\2025.03.18\2025.03.18\obj\Release\2025.03.18.xml
+C:\Users\zorma\OneDrive\Masaüstü\2025.03.18\2025.03.18\obj\Release\2025.03.18.pdb
